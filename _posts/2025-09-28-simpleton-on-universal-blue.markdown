@@ -288,13 +288,13 @@ System management: `ujust` (built into Universal Blue).
 
 CLI Applications fall into two categories:
 
-1. Global, utilitarian, easy?
+* Global, utilitarian, easy?
     - `brew install $PACKAGE`
 
 (as a bonus, you can dump all your packages into a ~/.Brewfile if you wish to just
 start over from scratch! `brew bundle dump --global --force --describe`).
 
-2. Anything else?
+* Anything else?
     - `distrobox --bin $BINARY_ABS_PATH` inside distrobox container.
 
 System services:
@@ -306,3 +306,20 @@ then...
 systemctl --user daemon-reload
 systemctl --user start $SERVICE
 ```
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="derekbarbosa/dawgwithablog"
+        data-repo-id="R_kgDOP4to8A"
+        data-category="General"
+        data-category-id="DIC_kwDOP4to8M4CwCQl"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
