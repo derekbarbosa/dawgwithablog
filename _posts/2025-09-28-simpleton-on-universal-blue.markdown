@@ -3,7 +3,6 @@ title:  A simpleton's look on Universal Blue
 date:   2025-09-28 2:45:54
 categories: [universal-blue]
 tags: [containers, distrobox, universal-blue, atomic, bootc, rambling]
-author: Derek
 ---
 
 Well, I recently converted to the church of atomic/immutable distros. What can I
