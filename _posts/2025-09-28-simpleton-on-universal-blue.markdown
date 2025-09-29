@@ -101,8 +101,7 @@ out) -- TLDR: systemd service files but with containers!
 
 In fact, Bazzite, one of the many "spins" of Universal Blue, (I really can't help myself
 with the Fedora analogies here) actually "ranks" package formats from order of
-most-to-least recommended for [daily
-use](https://docs.bazzite.gg/Installing_and_Managing_Software/) to help with the
+most-to-least recommended for [daily use](https://docs.bazzite.gg/Installing_and_Managing_Software/) to help with the
 "order of precedence" for installing packages.
 
 Ok, that's great and all...
@@ -172,7 +171,7 @@ Ruby?
 
 Well, in 2021, Homebrew announced version
 [3.1.0](https://brew.sh/2021/04/12/homebrew-3.1.0/?ref=ypsidanger.com) of their
-beloved package manager. The big major change is that [Github Packages]() became
+beloved package manager. The big major change is that [Github Packages](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages) became
 the default package {up, down}load location for both Homebrew and Linuxbrew.
 
 The cool part is that these packages are just tagged OCI images, with open
