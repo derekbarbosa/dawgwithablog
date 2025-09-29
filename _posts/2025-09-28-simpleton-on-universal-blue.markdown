@@ -245,7 +245,7 @@ Thankfully, we can have clean, logical separation and export binaries and
 full-on graphical applications with `distrobox`'s built-in
 [distrobox-export](https://distrobox.it/usage/distrobox-export/).
 
-This knwowledge, paired with this fantastic blog post by Artem "Hackeryarn"
+This knowledge, paired with this fantastic blog post by Artem "Hackeryarn"
 Chernyak: ["Distrobox in practice"](https://hackeryarn.com/post/distrobox/) and
 Jorge Castro's own mad-scientist combination of
 [chezmoi](https://www.ypsidanger.com/making-the-most-out-of-distrobox-and-toolbx/)
