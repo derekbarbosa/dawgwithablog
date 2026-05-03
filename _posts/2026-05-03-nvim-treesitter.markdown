@@ -58,7 +58,8 @@ the copious amount of browser tabs I have open.
 Frankly, I think that's what bothers me about things like Visual Studio (which,
 I really enjoyed using in my short stints with C#). The terminal is subjected to
 small, pitiful pane; the padding on the menu dialogs and sidebars are awfully
-huge; the UI seems to overshadow the two most importat
+huge; the UI seems to overshadow the two most important elements to begin with:
+your code and it's output (generalizing here).
 
 Those are all minor nitpicks and gripes, and I realize that there is nothing
 preventing me from just using my WM to pane my IDE on one-half of my monitor,
