@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I code for food. My opinions are my own. All content is GMO-free, grown and
+cultivated consciously. No antibiotics, artificial food colorings, or LLMs,
+ever.
+
+I use em-dashes. Get over it.
